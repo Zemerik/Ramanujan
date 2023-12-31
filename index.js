@@ -364,5 +364,5 @@ for (const folder of commandFolders) {
 	}
 }
 
-client.login('MTE1MjkxMjg3MDAxOTk3MzE3Mg.GFPWMl.a4RKxQjjdVD6Wr6alKGzmHHrd86wwK18tqaT1c');
+client.login('TOKEN HERE');
 
