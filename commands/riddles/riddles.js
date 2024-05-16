@@ -25,8 +25,10 @@ module.exports = {
         const riddle9_answer = "4"
         const riddle10 = "How can you add eight 8's to get the number 1000?"
         const riddle10_answer = "888 + 88 + 8 + 8 + 8 = 1000"
+        const riddle11 = "If there are four apples and you take away three, how many do you have?"
+        const riddle11_answer = "You took three apples, so you have three"
 
-        const riddle_questions = [ riddle1, riddle2, riddle3, riddle4, riddle5, riddle6, riddle7, riddle8, riddle9, riddle10]
+        const riddle_questions = [ riddle1, riddle2, riddle3, riddle4, riddle5, riddle6, riddle7, riddle8, riddle9, riddle10, riddle11]
 
         const random_riddle_index = Math.floor(Math.random() * riddle_questions.length)
 
@@ -54,6 +56,8 @@ module.exports = {
             random_riddle_answer = riddle9_answer;
         } else if (random_riddle === riddle10) {
             random_riddle_answer = riddle10_answer;
+        } else if (random_riddle === riddle11) {
+            random_riddle_answer = riddle11
         }
 
         // Now you can use random_riddle_answer outside the if conditions
