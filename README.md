@@ -1,9 +1,9 @@
+> [!IMPORTANT]
+> This Project has now been ARCHIVED! Thanks to all Contributors, Users, and Servers who have been a part of this project👍
+
 <p align = "center"><img src = "assets/img/icon.jpeg"></p>
 
 <h1 align = "center">🟰Ramanujan🟰</h1>
-
-> [!Important]
-> The bot is currently experiencing some host issues which are in the middle of being fixed. 
 
 <p align="center">
   <a href="https://zemerik.is-a.dev/Ramanujan">
